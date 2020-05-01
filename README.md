@@ -108,7 +108,7 @@ https://github.com/sdrapkin/SecurityDriven.Inferno <br>
 https://github.com/peteraritchie/LongPath <br>
 
 # License
-Copyright © ∞ Jason Drawdy (CloneMerge)
+Copyright © ∞ Jason Drawdy 
 
 All rights reserved.
 
